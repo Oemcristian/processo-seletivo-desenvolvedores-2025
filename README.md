@@ -11,7 +11,7 @@ Bem vindos ao processo seletivo para desenvolvedores da Turing Tecnologia, prime
 - Comente de forma breve sobre o que realizou no projeto
 - Adicione Instruções de como rodar o seu projeto em localhost
 - Faça um Pull Request para o mesmo repositório.
-- Finalize o projeto até dia 11/05
+- Finalize o projeto até o dia 21/09 
 ## Sobre o projeto para o teste :
 TESTE BACKEND
 --------------------
@@ -57,7 +57,7 @@ Desenvolver a sua própria Landing Page ou Portifólio falando sobre você, conq
 # Observações
 Se ainda não souber utilizar o Git e o Github, aproveite a oportunidade para aprender. São ferramentas essenciais para o mercado de trabalho e você terá que utiliza-las de um jeito ou de outro no futuro.
 
-Grupo no Whatsapp para duvidas
-https://chat.whatsapp.com/DgnqcGmp8FOJPGqwlD3hFD
+E-mail para contato em caso de dúvidas
+rhturingtecnologia@gmail.com 
 
 Vamo Codar! <3
